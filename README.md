@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Atta</h1>
-<h3 align="center">A passionate math, programming and data science enthusiast, eager to expand my knowledge</h3>
+<h3 align="center">A passionate math, programming languages and data science enthusiast, eager to expand my knowledge</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theodcod&label=Profile%20views&color=0e75b6&style=flat" alt="theodcod" /> </p>
 
