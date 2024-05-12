@@ -1,4 +1,4 @@
-### Hi,
+### 
 <h1 align="center">Hi 👋, I'm Atta</h1>
 <h3 align="center">A passionate math, programming languages and data science enthusiast, eager to expand my knowledge</h3>
 
